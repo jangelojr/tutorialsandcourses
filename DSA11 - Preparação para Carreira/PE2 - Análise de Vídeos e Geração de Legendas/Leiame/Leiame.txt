@@ -1,0 +1,14 @@
+Este é o Projeto Especial número 2, compartilhado entre os alunos de todas as Formações da Data Science Academy.
+
+O conhecimento necessário para construir uma aplicação como essa é bem extenso e está distribuído em diversos cursos da Data Science Academy. O projeto é fornecido como forma de você compreender o que pode ser feito com Machine Learning e IA para resolver problemas do mundo real, criando aplicações que podem ser monetizadas.
+
+Assista o vídeo que acompanha o projeto, execute, estude o código, modifique e crie suas próprias aplicações. O arquivo run.txt tem as instruções para executar a aplicação.
+
+Clique no link abaixo para fazer o download de todos os arquivos do projeto!
+
+https://drive.google.com/open?id=1l_iAl2wRX4mwnLk4cEGHCq_1gkJl2kEt
+
+
+Bons estudos!
+
+Equipe DSA
