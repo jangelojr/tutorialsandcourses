@@ -1,0 +1,5 @@
+let
+    Source = Facebook.Graph("https://graph.facebook.com/v2.8/seu_usuario_facebook/?fields=posts.limit(100){link,source,from,shares,status_type,to,application,story,type,likes,created_time}"),
+    posts = Source[posts]
+in
+    posts
